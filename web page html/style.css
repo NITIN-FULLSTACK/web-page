@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+}
+body{
+    background-image: url(social-media-5187243_1280.webp);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+}
+.text{
+    margin-left: 1000px;
+    margin-top: 100px;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;    
+}
+a:hover{
+    color: blue; 
+} 
+.a{
+    color:black;
+}
+.a:hover{
+    color: blue;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.979);
+    padding: 20px;
+}
+li.i{
+    display: inline;
+    padding: 10px;
+}
+ul.c{
+    float: right;
+}
